@@ -1,1 +1,1 @@
-# Bayesian-Batch-Approach-to-Active-Learning
+# CS698X_Project
